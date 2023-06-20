@@ -1,8 +1,8 @@
 :root {
-    --cor-de-fundo: #eb78ac;
+    --cor-de-fundo: #f395bf;
 }
 body {
-    background-color: var(--cor-de-fundo);
+    background-color:var(--cor-de-fundo);
     }
 <body>
    <h1>
