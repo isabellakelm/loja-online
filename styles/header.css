@@ -1,0 +1,9 @@
+@media screen and {min-width: 1024px){
+    .container_titulo{
+
+         display: block;
+         font-family: var(--fonte-poppins);
+         font-size: 30px;
+         font-weight: 400;
+    }     
+
